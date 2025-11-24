@@ -18,4 +18,4 @@
 
 ## 初步设计的前端界面（有待进一步优化）
 
-![alt text](image.png)
+![alt text](https://github.com/g101418/DocumentFormatting/blob/main/初步设计的前端.png)
