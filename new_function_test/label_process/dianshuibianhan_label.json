@@ -5,27 +5,30 @@
       "display_name": "年份",
       "start_tag": "【年份】",
       "end_tag": "【-年份】",
-      "allow_unclosed": true,
+      "allow_unclosed": false,
       "allow_nested": false,
-      "allow_multiline": false
+      "allow_multiline": false,
+      "single_label_only": false
     },
     {
       "tag_key": "DOC_GENRE",
       "display_name": "文种",
       "start_tag": "【文种】",
       "end_tag": "【-文种】",
-      "allow_unclosed": true,
+      "allow_unclosed": false,
       "allow_nested": false,
-      "allow_multiline": false
+      "allow_multiline": false,
+      "single_label_only": false
     },
     {
       "tag_key": "DOC_ID",
       "display_name": "文号",
       "start_tag": "【文号】",
       "end_tag": "【-文号】",
-      "allow_unclosed": true,
+      "allow_unclosed": false,
       "allow_nested": false,
-      "allow_multiline": false
+      "allow_multiline": false,
+      "single_label_only": false
     },
     {
       "tag_key": "H0",
@@ -34,7 +37,8 @@
       "end_tag": "【-大标题】",
       "allow_unclosed": false,
       "allow_nested": false,
-      "allow_multiline": true
+      "allow_multiline": true,
+      "single_label_only": false
     },
     {
       "tag_key": "H1",
@@ -43,7 +47,8 @@
       "end_tag": "【-二级标题】",
       "allow_unclosed": true,
       "allow_nested": false,
-      "allow_multiline": false
+      "allow_multiline": false,
+      "single_label_only": false
     },
     {
       "tag_key": "H2",
@@ -52,7 +57,8 @@
       "end_tag": "【-二级标题】",
       "allow_unclosed": true,
       "allow_nested": false,
-      "allow_multiline": false
+      "allow_multiline": false,
+      "single_label_only": false
     },
     {
       "tag_key": "H3",
@@ -61,7 +67,8 @@
       "end_tag": "【-三级标题】",
       "allow_unclosed": true,
       "allow_nested": false,
-      "allow_multiline": false
+      "allow_multiline": false,
+      "single_label_only": false
     },
     {
       "tag_key": "H4",
@@ -70,7 +77,8 @@
       "end_tag": "【-四级标题】",
       "allow_unclosed": true,
       "allow_nested": false,
-      "allow_multiline": false
+      "allow_multiline": false,
+      "single_label_only": false
     },
     {
       "tag_key": "P_H1",
@@ -79,7 +87,8 @@
       "end_tag": null,
       "allow_unclosed": true,
       "allow_nested": true,
-      "allow_multiline": false
+      "allow_multiline": false,
+      "single_label_only": false
     },
     {
       "tag_key": "P_H2",
@@ -88,7 +97,8 @@
       "end_tag": null,
       "allow_unclosed": true,
       "allow_nested": true,
-      "allow_multiline": false
+      "allow_multiline": false,
+      "single_label_only": false
     },
     {
       "tag_key": "P_H3",
@@ -97,7 +107,8 @@
       "end_tag": null,
       "allow_unclosed": true,
       "allow_nested": true,
-      "allow_multiline": false
+      "allow_multiline": false,
+      "single_label_only": false
     },
     {
       "tag_key": "P_H4",
@@ -106,7 +117,8 @@
       "end_tag": null,
       "allow_unclosed": true,
       "allow_nested": true,
-      "allow_multiline": false
+      "allow_multiline": false,
+      "single_label_only": false
     },
     {
       "tag_key": "P_H1_HEAD",
@@ -115,7 +127,8 @@
       "end_tag": "【-段内一级标题】",
       "allow_unclosed": false,
       "allow_nested": false,
-      "allow_multiline": false
+      "allow_multiline": false,
+      "single_label_only": false
     },
     {
       "tag_key": "P_H2_HEAD",
@@ -124,7 +137,8 @@
       "end_tag": "【-段内二级标题】",
       "allow_unclosed": false,
       "allow_nested": false,
-      "allow_multiline": false
+      "allow_multiline": false,
+      "single_label_only": false
     },
     {
       "tag_key": "P_H3_HEAD",
@@ -133,7 +147,8 @@
       "end_tag": "【-段内三级标题】",
       "allow_unclosed": false,
       "allow_nested": false,
-      "allow_multiline": false
+      "allow_multiline": false,
+      "single_label_only": false
     },
     {
       "tag_key": "P_H4_HEAD",
@@ -142,7 +157,8 @@
       "end_tag": "【-段内四级标题】",
       "allow_unclosed": false,
       "allow_nested": false,
-      "allow_multiline": false
+      "allow_multiline": false,
+      "single_label_only": false
     },
     {
       "tag_key": "PARAGRAPH",
@@ -151,7 +167,8 @@
       "end_tag": null,
       "allow_unclosed": true,
       "allow_nested": true,
-      "allow_multiline": false
+      "allow_multiline": false,
+      "single_label_only": false
     },
     {
       "tag_key": "BOLD",
@@ -160,7 +177,8 @@
       "end_tag": "【-加粗】",
       "allow_unclosed": false,
       "allow_nested": false,
-      "allow_multiline": false
+      "allow_multiline": false,
+      "single_label_only": false
     },
     {
       "tag_key": "ITALIC_KAI",
@@ -169,7 +187,8 @@
       "end_tag": "【-楷体强调】",
       "allow_unclosed": false,
       "allow_nested": false,
-      "allow_multiline": false
+      "allow_multiline": false,
+      "single_label_only": false
     },
     {
       "tag_key": "SIGNATURE",
@@ -178,7 +197,8 @@
       "end_tag": "【-落款】",
       "allow_unclosed": false,
       "allow_nested": false,
-      "allow_multiline": true
+      "allow_multiline": true,
+      "single_label_only": false
     },
     {
       "tag_key": "SIGNATURE_DATE",
@@ -187,7 +207,8 @@
       "end_tag": "【-落款日期】",
       "allow_unclosed": true,
       "allow_nested": false,
-      "allow_multiline": false
+      "allow_multiline": false,
+      "single_label_only": true
     },
     {
       "tag_key": "INCLUDE",
@@ -196,7 +217,8 @@
       "end_tag": "【-引入文件】",
       "allow_unclosed": false,
       "allow_nested": false,
-      "allow_multiline": false
+      "allow_multiline": false,
+      "single_label_only": true
     }
   ]
 }
